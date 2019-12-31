@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7Mummy" size="10.000000 12.669492" />
+    <ImageTarget name="2Dinosaur" size="10.000000 10.000000" />
+    <ImageTarget name="8NinjaBlade" size="10.000000 10.000000" />
+    <ImageTarget name="6Clock" size="10.000000 10.000000" />
+    <ImageTarget name="5Coins" size="10.000000 12.913043" />
+    <ImageTarget name="4Scrolls" size="10.000000 10.000000" />
+    <ImageTarget name="3Sword" size="10.000000 6.661539" />
+    <ImageTarget name="1JapaneseTemple" size="10.000000 5.643312" />
+  </Tracking>
+</QCARConfig>
